@@ -1,0 +1,66 @@
+town,FlatType,No_of_Units,Number_of_applicants,Rate_Non_Elderly_First_timers,Rate_Non_Elderly_Second_timers,Rate_Non_Elderly_Overall,Mature_Estates
+Bukit Batok,3-room (income ceiling $6000),105,247,1,30,2.4,N
+Bukit Batok,4-room,101,546,4.1,29.6,5.4,N
+Bukit Batok,5-room,51,303,4.7,36,5.9,N
+Bukit Panjang,3-room (income ceiling $6000),78,66,0.5,9.7,0.8,N
+Bukit Panjang,4-room,9,124,11,NA,13.8,N
+Bukit Panjang,5-room,5,65,9.2,NA,13,N
+Choa Chu Kang,3-room (income ceiling $6000),3,18,2.7,NA,6,N
+Choa Chu Kang,4-room,22,121,3.4,50,5.5,N
+Choa Chu Kang,5-room,13,59,3.8,NA,4.5,N
+Hougang,3-room (income ceiling $6000),5,47,4.4,NA,9.4,N
+Hougang,3-room (income ceiling $12000),1,14,5,NA,14,N
+Hougang,4-room,26,173,4.6,58,6.7,N
+Hougang,5-room / 3Gen,13,100,4.4,NA,7.7,N
+Jurong East / West,3-room (income ceiling $6000),9,62,3.6,NA,6.9,N
+Jurong East / West,3-room (income ceiling $12000),1,5,3,NA,5,N
+Jurong East / West,4-room,21,113,3.6,41,5.4,N
+Jurong East / West,5-room / Executive,11,59,3.7,NA,5.4,N
+Punggol,3-room (income ceiling $6000),69,228,1.4,44.3,3.3,N
+Punggol,3-room (income ceiling $12000),37,66,0.6,45,1.8,N
+Punggol,4-room,257,588,1.6,17,2.3,N
+Punggol,5-room,77,339,2.2,57.7,4.4,N
+Sembawang,3-room (income ceiling $6000),18,111,2.3,NA,6.2,N
+Sembawang,4-room,72,337,3.4,33.7,4.7,N
+Sembawang,5-room / Executive,39,147,2.6,47,3.8,N
+Sengkang,3-room (income ceiling $6000),4,61,6,NA,15.3,N
+Sengkang,3-room (income ceiling $12000),3,11,1,NA,3.7,N
+Sengkang,4-room,32,223,4.4,87,7,N
+Sengkang,5-room / 3Gen,20,123,3.5,57,6.2,N
+Woodlands,3-room (income ceiling $6000),17,98,2.5,NA,5.8,N
+Woodlands,4-room,54,328,4.5,46.5,6.1,N
+Woodlands,5-room / Executive,30,166,4.3,40,5.5,N
+Yishun,3-room (income ceiling $6000),16,117,3.2,NA,7.3,N
+Yishun,4-room,39,174,3,61,4.5,N
+Yishun,5-room / 3Gen,18,76,1.9,NA,4.2,N
+Ang Mo Kio,3-room,12,38,1.4,NA,3.2,Y
+Ang Mo Kio,4-room,11,213,14.2,NA,19.4,Y
+Ang Mo Kio,5-room,3,66,15.3,NA,22,Y
+Bedok,3-room,12,69,2.8,NA,5.8,Y
+Bedok,4-room,29,173,3.3,81,6,Y
+Bedok,5-room,12,117,6.3,NA,9.8,Y
+Bishan,3-room,1,4,3,NA,4,Y
+Bishan,4-room,2,8,3,NA,4,Y
+Bukit Merah,3-room,22,82,2.3,34,3.7,Y
+Bukit Merah,4-room,34,444,9.2,140,13.1,Y
+Bukit Merah,5-room,6,153,17.5,NA,25.5,Y
+Clementi,3-room,105,92,0.4,10,0.9,Y
+Clementi,4-room,91,371,3,27.5,4.1,Y
+Clementi,5-room / 3Gen,127,319,1.5,23.7,2.5,Y
+Geylang,3-room,48,71,0.9,14.5,1.5,Y
+Geylang,4-room,68,463,5.5,35,6.8,Y
+Kallang / Whampoa,3-room,15,55,2,NA,3.7,Y
+Kallang / Whampoa,4-room,30,416,11.5,83,13.9,Y
+Kallang / Whampoa,5-room,2,82,26.5,NA,41,Y
+Pasir Ris,5-room / Executive,4,39,6.3,NA,9.8,Y
+Queenstown,3-room,7,27,2,NA,3.9,Y
+Queenstown,4-room,7,187,21.4,NA,26.7,Y
+Serangoon,3-room,1,14,3,NA,14,Y
+Serangoon,4-room,2,9,2.5,NA,4.5,Y
+Serangoon,5-room,1,11,7,NA,11,Y
+Tampines,3-room,147,232,0.6,20.7,1.6,Y
+Tampines,4-room,116,459,2.7,32,4,Y
+Tampines,5-room / 3Gen,112,219,1.2,18.2,2,Y
+Toa Payoh,3-room,130,225,0.8,21.8,1.7,Y
+Toa Payoh,4-room,146,1154,6.6,34.1,7.9,Y
+Toa Payoh,5-room / 3Gen / Executive,38,300,4.8,124,7.9,Y

@@ -1,0 +1,170 @@
+﻿Map_Code,Town,U/C,MRT,Pixels Scale per 500m,MRT X Coordinates,MRT Y Coordinates
+amk,Ang Mo Kio,,Yio Chu Kang,400,1652,1338
+amk,Ang Mo Kio,1,Lentor,400,918,1100
+amk,Ang Mo Kio,1,Mayflower,400,928,2210
+amk,Ang Mo Kio,,Ang Mo Kio ,400,2078,2378
+amk,Ang Mo Kio,1,BrightHill,400,572,3018
+bb,Bukit Batok,,Cashew ,404,2862,574
+bb,Bukit Batok,,Bukit Gombak,404,1702,1524
+bb,Bukit Batok,,Bukit Batok,404,1488,2392
+bb,Bukit Batok,,Jurong East,404,860,3824
+bd,Bedok,,Bedok,488,2708,1724
+bd,Bedok,,Kaki Bukit,488,488,710
+bd,Bedok,,Bedok North,488,1422,704
+bd,Bedok,,Kembangan,488,990,2086
+bd,Bedok,,Bedok Reservoir,488,2900,464
+bd,Bedok,,Tenah Merah,488,2374,1324
+bd,Bedok,1,Bedok South,488,4724,2358
+bm,Bukit Merah,,Queenstown,423,1044,223
+bm,Bukit Merah,,Redhill,423,2050,699
+bm,Bukit Merah,,Labrador Park,423,721,2283
+bm,Bukit Merah,,Telok Blangah,423,1383,2455
+bm,Bukit Merah,,Harbourfront,423,2416,2962
+bm,Bukit Merah,1,Great World,423,3631,246
+bm,Bukit Merah,,Tiong Bahru,423,3076,1041
+bm,Bukit Merah,1,Havelock,423,3619,867
+bm,Bukit Merah,,Outram,423,4140,1468
+bm,Bukit Merah,,Outram Park,423,4158,1650
+bm,Bukit Merah,1,Cantonment,423,3910,2233
+bm,Bukit Merah,1,Keppel,423,3358,2493
+bp,Bukit Panjang,,Jelapang LRT,502,1419,939
+bp,Bukit Panjang,,Segar LRT,502,1981,816
+bp,Bukit Panjang,,Fajar LRT,502,2112,1162
+bp,Bukit Panjang,,Senja LRT,502,1180,1366
+bp,Bukit Panjang,,Bangkit LRT,502,2316,1650
+bp,Bukit Panjang,,Ten Mile Junction LRT,502,967,1626
+bp,Bukit Panjang,,Phoenix LRT,502,714,1836
+bp,Bukit Panjang,,Bukit Panjang LRT,502,1266,1894
+bp,Bukit Panjang,,Petir LRT,502,1666,1909
+bp,Bukit Panjang,,Pending LRT,502,2173,2076
+bp,Bukit Panjang,,Bukit Panjang,502,1113,1792
+bp,Bukit Panjang,,Cashew ,502,1440,2839
+bp,Bukit Panjang,,Hillview,502,1768,3567
+cck,Choa Chu Kang,,Choa Chu Kang LRT,503,1253,2488
+cck,Choa Chu Kang,,South View LRT,503,1329,2995
+cck,Choa Chu Kang,,Keat Hong LRT,503,1751,3185
+cck,Choa Chu Kang,,Teck Whye LRT,503,2282,3410
+cck,Choa Chu Kang,,Phoenix LRT,503,2756,3221
+cck,Choa Chu Kang,,Bukit Panjang LRT,503,3392,3278
+cck,Choa Chu Kang,,Senja LRT,503,3299,2686
+cck,Choa Chu Kang,,Choa Chu Kang,503,1239,2430
+cck,Choa Chu Kang,,Yew Tee,503,1595,1098
+cl,Clementi,,Clementi,523,1912,1562
+gl,Geylang,,Mattar,473,1419,928
+gl,Geylang,,MacPherson,473,2086,976
+gl,Geylang,,Aljunied,473,1384,1974
+gl,Geylang,,Paya Lebar,473,2376,1840
+gl,Geylang,,Dakota,473,1984,2790
+gl,Geylang,,Ubi,473,3015,606
+gl,Geylang,,Eunos,473,3420,1633
+gl,Geylang,,Kembangan,473,4429,1489
+hg,Hougang,,Fernvale LRT,304,537,259
+hg,Hougang,,Layar LRT,304,757,208
+hg,Hougang,,Tongkang LRT,304,1173,406
+hg,Hougang,,Renjong LRT,304,1482,582
+hg,Hougang,,Sengkang LRT,304,1818,250
+hg,Hougang,,Ranggung LRT,304,1956,756
+hg,Hougang,,Kangkar LRT,304,2290,748
+hg,Hougang,,Bakau LRT,304,2506,471
+hg,Hougang,,Rumbia LRT,304,2539,259
+hg,Hougang,,Sengkang,304,1818,250
+hg,Hougang,,Buangkok,304,1666,856
+hg,Hougang,,Hougang,304,1636,1605
+hg,Hougang,,Kovan,304,1150,2365
+hg,Hougang,,Serangoon,304,414,3049
+hg,Hougang,,Bartley,304,846,3532
+hg,Hougang,,Taiseng,304,1398,3993
+je,Jurong East,,Chinese Garden,475,659,1378
+je,Jurong East,,Jurong East,475,1731,2401
+je,Jurong East,,Bukit Batok,475,2546,619
+jw,Jurong West,,Pioneer,383.3333,1523,1766
+jw,Jurong West,,Boon Lay,383.3333,2296,1666
+jw,Jurong West,,Lakeside,383.3333,3557,1211
+jw,Jurong West,,Chinese Garden,383.3333,4526,1386
+kwn,Kallang / Whampoa,,Novena,467,765,1173
+kwn,Kallang / Whampoa,,Farrer Park,467,1839,1983
+kwn,Kallang / Whampoa,,Little India,467,1326,2535
+kwn,Kallang / Whampoa,,Jalan Besar,467,1954,2688
+kwn,Kallang / Whampoa,,Rochor,467,1641,2847
+kwn,Kallang / Whampoa,,Boon Keng,467,2895,2125
+kwn,Kallang / Whampoa,,Bendemeer,467,2745,1860
+kwn,Kallang / Whampoa,,Lavender,467,2695,2520
+kwn,Kallang / Whampoa,,Geylang Bahru,467,3645,1084
+kwn,Kallang / Whampoa,,Kallang ,467,3612,2074
+kwn,Kallang / Whampoa,,Stadium,467,3987,2973
+pg,Punggol,,Tongkang LRT,383,381,3017
+pg,Punggol,,Sengkang,383,1267,2759
+pg,Punggol,,Punggol,383,1836,1557
+pg,Punggol,,Sam Kee LRT,383,2040,1147
+pg,Punggol,,Teck Lee LRT,383,2197,874
+pg,Punggol,,Punggol Point LRT,383,2178,514
+pg,Punggol,,Samudera  LRT,383,1798,625
+pg,Punggol,,Nibong LRT,383,1657,976
+pg,Punggol,,Sumang LRT,383,1512,1260
+pg,Punggol,,Soo Teck LRT,383,1396,1536
+pg,Punggol,,Cove LRT,383,2119,2035
+pg,Punggol,,Meridian LRT,383,2440,2274
+pg,Punggol,,Coral Edge LRT,383,2745,2521
+pg,Punggol,,Riviera  LRT,383,3075,2431
+pg,Punggol,,Kadaloor LRT,383,3075,2020
+pg,Punggol,,Oasis LRT,383,2772,1806
+pg,Punggol,,Damai LRT,383,2364,1518
+pg,Punggol,,Compassvale LRT,383,1660,2491
+pg,Punggol,,Rumbia LRT,383,2172,2758
+prc,Pasir Ris,,Pasir Ris,502,2196,1576
+qt,Queenstown,,Dover ,464,710,480
+qt,Queenstown,,Buona Vista,464,1882,886
+qt,Queenstown,,One-North,464,1614,1652
+qt,Queenstown,,Kent Ridge,464,1312,2280
+qt,Queenstown,,Holland Village,464,2510,372
+qt,Queenstown,,Commonwealth,464,2710,1368
+qt,Queenstown,,Queenstown,464,3486,2154
+qt,Queenstown,,Redhill,464,4568,2670
+sb,Sembawang,,Sembawang,476,1371,1755
+sb,Sembawang,1,Canberra,476,2337,2379
+sgn,Serangoon,,Lorong Chuan,561,1176,3009
+sgn,Serangoon,,Serangoon,561,2217,3246
+sgn,Serangoon,,Bartley,561,2895,4002
+sk,Sengkang,,Thanggam LRT,407.5,921,733
+sk,Sengkang,,Kupang LRT,407.5,1447,637
+sk,Sengkang,,Fernvale LRT,407.5,984,1165
+sk,Sengkang,,Layar LRT,407.5,1305,1138
+sk,Sengkang,,Farmway LRT,407.5,2127,697
+sk,Sengkang,,Cheng Lim LRT,407.5,2550,769
+sk,Sengkang,,Tongkang LRT,407.5,1851,1354
+sk,Sengkang,,Renjong LRT,407.5,2254,1554
+sk,Sengkang,,Buangkok,407.5,2503,1903
+sk,Sengkang,,Sengkang,407.5,2695,1152
+sk,Sengkang,,Compassvale LRT,407.5,3141,897
+sk,Sengkang,,Rumbia LRT,407.5,3649,1161
+sk,Sengkang,,Bakau LRT,407.5,3603,1411
+sk,Sengkang,,Ranggung LRT,407.5,2896,1779
+sk,Sengkang,,Kangkar LRT,407.5,3304,1776
+tap,Tampines,,Pasir Ris,357,2269,511
+tap,Tampines,,Tampines,357,1950,2064
+tap,Tampines,,Tampines West,357,1417,2676
+tap,Tampines,,Tampines East,357,2707,1830
+tap,Tampines,,Simei,357,2589,2844
+tap,Tampines,,Upper Changi,357,3217,2937
+tap,Tampines,,Tampines,357,1770,1905
+tp,Toa Payoh,,Marymount,432,1174,411
+tp,Toa Payoh,,Bishan,432,1992,244
+tp,Toa Payoh,,Braddell,432,1881,1198
+tp,Toa Payoh,,Caldecott,432,1180,1450
+tp,Toa Payoh,1,Caldecott(TEC),432,1240,1504
+tp,Toa Payoh,,Toa Payoh,432,1944,1930
+tp,Toa Payoh,,Potong Pasir,432,3969,2074
+tp2,Toa Payoh,,Bartley,710,1942,646
+tp2,Toa Payoh,,Mattar,710,2538,3100
+tp3,Toa Payoh,,Woodleigh,698,988,1216
+tp3,Toa Payoh,,Potong Pasir,698,740,2404
+tp3,Toa Payoh,,Bartley,698,2304,666
+wl,Woodlands,,Marsiling,436,1288,2012
+wl,Woodlands,1,Woodlands North,436,2364,622
+wl,Woodlands,,Woodlands,436,2364,1626
+wl,Woodlands,1,Woodlands(TEC),436,2542,1668
+wl,Woodlands,1,Woodlands South,436,3058,2464
+wl,Woodlands,,Admiralty,436,3694,1272
+ys,Yishun,1,Canberra,425,674,650
+ys,Yishun,,Yishun,425,1158,1850
+ys,Yishun,,Khatib,425,982,2954
