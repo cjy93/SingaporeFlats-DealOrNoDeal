@@ -67,8 +67,57 @@ def getEstatesMaturity(fn = 'Number of Applications Received for 3-room and bigg
     estatesMaturityCon['Kallang'] = estatesMaturityCon['Kallang / Whampoa']
     del(estatesMaturityCon['Kallang / Whampoa'])
 
-
     return(estatesMaturityCon)
+
+
+def getMaturityColour():
+    ## Mature and Non Mature estates
+    estatesMaturity  = np.genfromtxt("Number of Applications Received for 3-room and bigger flats as at 19 Nov 2018.csv",     delimiter=",",skip_header=1,
+                    dtype=[('town','U24'),('FlatType','U50'),('No_of_Units','i8'),('Number_of_applicants','i8'),
+                          ('Rate_Non_Elderly_First_timers','f8'),('Rate_Non_Elderly_Second_timers','f8'),
+                          ('Rate_Non_Elderly_Overall','f8'),('Mature_Estates','U8')],
+                    missing_values=['na','-','','NA'],filling_values=0)
+
+    estatesMaturityTown= estatesMaturity['town']
+    estatesMaturityMature= estatesMaturity['Mature_Estates']
+    estatesMaturityCon= zip(estatesMaturityTown,estatesMaturityMature)
+
+    # make unique sets of 'towns' and 'Mature Estates'
+    estatesMaturityCon =set(estatesMaturityCon)
+
+    nMature = []
+    yMature = []
+
+
+    for town in estatesMaturityCon:
+        if town[1]=='N':
+            nMature.append(town[0])
+        elif town[1]=='Y':
+            yMature.append(town[0])
+    nMature.append('Jurong East')
+    nMature.append('Jurong West')
+    nMature.remove('Jurong East / West')
+    print("Mature estates : \n{}".format(yMature))
+    print("Non Mature estates : \n{}".format(nMature))
+
+    Mature = []
+    for repeatMature in range(len(yMature)):
+        Mature.append('Mature')
+
+
+    NonMature = []
+    for repeatMature in range(len(yMature)):
+        NonMature.append('Non Mature')
+
+    ## Making labels in order
+    label = yMature + nMature
+    print(label)
+
+    # Make different colour for Mature and Non Mature estates  
+    values= Mature + NonMature
+    keys = label
+    
+    return(yMature,nMature,keys,values)
 
 
 def genPopupTxtDictByTown():
